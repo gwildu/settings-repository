@@ -7,4 +7,5 @@ settings between different machines.
 
 To get it in your PhpStorm instance go to File -> Settings Repository and enter
 this repositorie's url. Choose "Overwrite local" to get my settings for your
-PhpStorm Instance. 
+PhpStorm Instance. Or download the zip and load the settings locally by the
+button on the ride side of the url field.
