@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6cba79ba-2f6a-4632-a008-0804cab5404e" name="xampp" url="http://localhost">
+        <fileTransfer mountedRoot="c:\xampp\htdocs" accessType="MOUNT" />
+      </webServer>
+      <webServer id="a8013221-63db-441b-892b-8b8120cbeb3d" name="xampp (1)" url="http://local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
