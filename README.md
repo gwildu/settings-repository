@@ -6,5 +6,5 @@ settings between different machines.
 # Usage
 
 To get it in your PhpStorm instance go to File -> Settings Repository and enter
-this repositories url. Chose Overwrite local to get my settings for your
+this repositorie's url. Choose "Overwrite local" to get my settings for your
 PhpStorm Instance. 
