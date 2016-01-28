@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="im-atelier-common" type="Less" />
       <mapping pattern="asdfasd" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping ext="something" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
