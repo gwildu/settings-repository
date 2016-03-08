@@ -5,6 +5,7 @@
       <mapping pattern="im-atelier-common" type="Less" />
       <mapping ext="themeconf" type="Less" />
       <mapping ext="attributes" type="Less" />
+      <mapping pattern="asdfasd" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="something" type="PLAIN_TEXT" />
