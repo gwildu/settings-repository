@@ -8,6 +8,7 @@
       <mapping pattern="asdfasd" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="addarticletowishlist" type="PLAIN_TEXT" />
       <mapping ext="something" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
