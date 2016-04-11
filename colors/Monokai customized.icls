@@ -797,9 +797,19 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="JADE_FILE_PATH">
+      <value>
+        <option name="FOREGROUND" value="72b5ff" />
+      </value>
+    </option>
     <option name="JADE_JS_BLOCK">
       <value>
-        <option name="FOREGROUND" value="9b00ff" />
+        <option name="FOREGROUND" value="ff009d" />
+      </value>
+    </option>
+    <option name="JADE_STATEMENTS">
+      <value>
+        <option name="FOREGROUND" value="d35216" />
       </value>
     </option>
     <option name="JAVA_BLOCK_COMMENT">
