@@ -1,13 +1,11 @@
-<code_scheme name="Default (1)">
+<code_scheme name="Default (4)">
   <option name="RIGHT_MARGIN" value="80" />
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
-  <codeStyleSettings language="LESS">
+  <codeStyleSettings language="JSON">
     <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="2" />
-      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>

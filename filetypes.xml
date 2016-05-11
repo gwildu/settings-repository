@@ -3,8 +3,12 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="im-atelier-common" type="Less" />
+      <mapping ext="themeconf" type="Less" />
+      <mapping ext="attributes" type="Less" />
       <mapping pattern="asdfasd" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="addarticletowishlist" type="PLAIN_TEXT" />
       <mapping ext="something" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
