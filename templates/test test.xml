@@ -1,0 +1,5 @@
+<templateSet group="test test">
+  <template name="test" value="test" description="test" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
