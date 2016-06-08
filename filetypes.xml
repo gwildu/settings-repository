@@ -10,8 +10,9 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="addarticletowishlist" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="something" type="PLAIN_TEXT" />
       <mapping ext="theme" type="PLAIN_TEXT" />
+      <mapping ext="something" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
