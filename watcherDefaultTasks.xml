@@ -139,7 +139,7 @@
         </array>
       </option>
       <option name="outputFromStdout" value="true" />
-      <option name="program" value="C:/p/tamedia-tx-16/node_modules/less/bin/lessc" />
+      <option name="program" value="C:/p/tamedia-tx-16/node_modules/.bin/lessc.cmd" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
