@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping ext="vue" type="JavaScript" />
       <mapping pattern="im-atelier-common" type="Less" />
       <mapping ext="themeconf" type="Less" />
       <mapping ext="attributes" type="Less" />
