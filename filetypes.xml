@@ -12,6 +12,8 @@
       <mapping ext="theme" type="PLAIN_TEXT" />
       <mapping ext="something" type="PLAIN_TEXT" />
       <removed_mapping ext="vue" type="Vue" />
+      <mapping ext="something" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
