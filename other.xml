@@ -15,6 +15,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="BuiltInServerOptions" allowUnsignedRequests="true" />
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
       <value>
@@ -51,7 +52,7 @@
         <option name="PATH_TO_PPK" value="" />
       </value>
     </option>
-    <option name="PATH_TO_PASSWORD_FILE" />
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
     <option name="TIMEOUT" value="10" />
     <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
     <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
@@ -66,6 +67,10 @@
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="C:/Program Files/nodejs/node.exe">
       <version-cache version="5.9.0" last-modified="1458156404000" />
+      <npm-package value="C:/Program Files/nodejs/node_modules/npm" />
     </local-interpreter>
+  </component>
+  <component name="SvgViewer.Settings">
+    <option name="PLUGIN_ENABLED" value="true" />
   </component>
 </application>

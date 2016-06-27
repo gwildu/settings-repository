@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="im-atelier-common" type="Less" />
@@ -7,8 +7,14 @@
       <mapping ext="attributes" type="Less" />
       <mapping pattern="asdfasd" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="when1" type="PLAIN_TEXT" />
+      <mapping pattern="when" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="otherwise" type="PLAIN_TEXT" />
+      <mapping pattern="then" type="PLAIN_TEXT" />
       <mapping pattern="addarticletowishlist" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="something" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
