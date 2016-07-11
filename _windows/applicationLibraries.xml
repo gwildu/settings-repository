@@ -1,8 +1,30 @@
 <application>
   <component name="libraryTable">
+    <library name="babel-core-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_babel-core_babel-core.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_babel-core_babel-core.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="browser-sync-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_browser-sync_browser-sync.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="browserify-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_browserify_browserify.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_browserify_browserify.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -162,6 +184,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="promise-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_promise_promise.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_promise_promise.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="requirejs-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_requirejs_require.d.ts" />
@@ -177,6 +210,39 @@
     <library name="underscore-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_underscore_underscore.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="vue-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_vue_vue.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_vue_vue.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="vue-resource-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_vue-resource_vue-resource.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_vue-resource_vue-resource.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="vue-router-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_vue-router_vue-router.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_vue-router_vue-router.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
