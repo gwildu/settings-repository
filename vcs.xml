@@ -50,8 +50,12 @@
           <option name="url" value="https://github.com/gwildu/prototype-project.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ricardo-ch/ricardoch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\xampp\htdocs" />
+    <option name="cloneParentDir" value="C:\p" />
   </component>
 </application>
