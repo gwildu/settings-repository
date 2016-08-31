@@ -1,16 +1,15 @@
 <templateSet group="prosq">
-  <template name="art" value="{&#10;  &quot;id&quot;: $id$,&#10;  &quot;pictures&quot;: {&#10;    &quot;urlTemplates&quot;: {&#10;      &quot;main&quot;: &quot;ricardo-beta-eu-cld-res.cloudinary.com/images/t_{{resolution}}/v1/product/live/$id$_v0_$mainPictureId$&quot;&#10;    }&#10;  },&#10;  &quot;description&quot;: {&#10;    &quot;title&quot;: &quot;$title$&quot;,&#10;    &quot;subTitle&quot;: &quot;$subTitle$&quot;&#10;  },&#10;  &quot;price&quot;: {&#10;    &quot;buyNow&quot;: $buyNowPrice$,&#10;    &quot;total&quot;: $totalPrice$&#10;  },&#10;  &quot;shipping&quot;: {&#10;    &quot;method&quot;: {&#10;      &quot;id&quot;: &quot;$shippingId$&quot;,&#10;      &quot;displayText&quot;: &quot;$shippingDisplayText$&quot;&#10;    },&#10;    &quot;cost&quot;: $shippingCost$&#10;  },&#10;  &quot;payment&quot;: {&#10;    &quot;methods&quot;: [&#10;      {&#10;        &quot;id&quot;: &quot;$paymentId$&quot;,&#10;        &quot;displayText&quot;: &quot;$paymentDisplayText$&quot;&#10;      }&#10;    ]&#10;  }&#10;}    " description="An JSON object for an article" toReformat="true" toShortenFQNames="true">
+  <template name="art" value="{&#10;  &quot;id&quot;: $id$,&#10;  &quot;pictures&quot;: {&#10;    &quot;urlTemplates&quot;: {&#10;      &quot;main&quot;: &quot;ricardo-beta-eu-cld-res.cloudinary.com/images/t_{{resolution}}/v1/product/live/$id$_v0_$mainPictureId$&quot;&#10;    }&#10;  },&#10;  &quot;description&quot;: {&#10;    &quot;title&quot;: &quot;$title$&quot;,&#10;    &quot;subTitle&quot;: &quot;$subTitle$&quot;&#10;  },&#10;  &quot;price&quot;: {&#10;    &quot;buyNow&quot;: $buyNowPrice$,&#10;    &quot;total&quot;: $totalPrice$&#10;  },&#10;  &quot;shipping&quot;: {&#10;    &quot;method&quot;: &quot;$shippingDisplayText$&quot;,&#10;    &quot;cost&quot;: $shippingCost$&#10;  },&#10;  &quot;payment&quot;: {&#10;    &quot;methods&quot;: [&#10;      {&#10;        &quot;displayText&quot;: &quot;$paymentDisplayText$&quot;,&#10;        &quot;description&quot;: &quot;$paymentDescription$&quot;&#10;      }&#10;    ]&#10;  }&#10;}    " description="An JSON object for an article" toReformat="true" toShortenFQNames="true">
     <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="mainPictureId" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="title" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="subTitle" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="buyNowPrice" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="totalPrice" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="shippingId" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="shippingDisplayText" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="shippingCost" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="paymentId" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="paymentDisplayText" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="paymentDescription" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
