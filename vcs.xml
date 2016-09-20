@@ -90,8 +90,12 @@
           <option name="url" value="https://github.com/vuejs/vueify-example.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/vuejs-templates/browserify.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\p" />
+    <option name="cloneParentDir" value="C:\templates" />
   </component>
 </application>
