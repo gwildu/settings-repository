@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'C:\p\tryout\wishlist\Components\node_modules\core-wishlist\src\wishlist-new.js'" />
-    <option name="defaultScopeName" value="File 'C:\p\tryout\wishlist\Components\node_modules\core-wishlist\src\wishlist-new.js'" />
-    <option name="SEARCH_SCOPE" value="File 'C:\p\tryout\wishlist\Components\node_modules\core-wishlist\src\wishlist-new.js'" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>

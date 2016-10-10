@@ -1,5 +1,5 @@
 <application>
-  <component name="ConfigurableState">
+  <component name="SettingsState">
     <option name="host" value="https://gitlab.com" />
     <option name="token" value="4RLCpLMjHr1WkypMp3qE" />
   </component>
