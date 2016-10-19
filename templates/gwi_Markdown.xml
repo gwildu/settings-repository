@@ -21,4 +21,11 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="table-events" value="| Event | Params | Description | Notes |&#10;| --- | --- | --- | --- |&#10;| $event$ | $param$ | $description$ | $notes$ |" description="markdown table for event documentation of vue components" toReformat="false" toShortenFQNames="true">
+    <variable name="event" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="notes" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
