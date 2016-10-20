@@ -8,22 +8,23 @@
       <mapping ext="themeconf" type="Less" />
       <mapping ext="attributes" type="Less" />
       <mapping ext="theme" type="Less" />
-      <mapping pattern="addarticletowishlist" type="PLAIN_TEXT" />
-      <mapping pattern="when1" type="PLAIN_TEXT" />
-      <mapping pattern="git" type="PLAIN_TEXT" />
-      <mapping pattern="when" type="PLAIN_TEXT" />
-      <mapping pattern="asdfasd" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc.npmrc" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="otherwise" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="asdfasd" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc.npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern="otherwise" type="PLAIN_TEXT" />
+      <mapping pattern="when" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="addarticletowishlist" type="PLAIN_TEXT" />
       <mapping pattern="then" type="PLAIN_TEXT" />
+      <mapping pattern="when1" type="PLAIN_TEXT" />
+      <mapping pattern="git" type="PLAIN_TEXT" />
       <mapping ext="npmrc" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="something" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
+      <mapping ext="something" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
