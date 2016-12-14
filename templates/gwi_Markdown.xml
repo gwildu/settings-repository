@@ -26,7 +26,6 @@
     <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="notes" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="table-events-row" value="| $event$ | $param$ | $description$ | $note$ |" description="new row for table-events" toReformat="false" toShortenFQNames="true">
     <variable name="event" expression="" defaultValue="" alwaysStopAt="true" />
