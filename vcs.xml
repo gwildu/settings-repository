@@ -158,6 +158,10 @@
           <option name="url" value="https://github.com/ricardo-ch/vue-browserify-boilerplate" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/gwildu/sunflower-gallery" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\p\ricardo\" />
