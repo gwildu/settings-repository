@@ -162,6 +162,10 @@
           <option name="url" value="https://github.com/gwildu/sunflower-gallery" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/posva/vue-mdl" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\p\ricardo\" />
