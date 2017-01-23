@@ -1,0 +1,39 @@
+<templateSet group="gwi_Markdown">
+  <template name="table-props" value="| Property | Mandatory | Type | Default | Description  | Notes |&#10;| --- | --- | --- | --- | --- | --- |&#10;| $property$ | $mandatory$ | $type$ | $default$ | $description$ | $notes$ |" description="markdown table for props documentation of vue components" toReformat="false" toShortenFQNames="true">
+    <variable name="property" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="mandatory" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="default" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="notes" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="table-props-row" value="| $property$ | $mandatory$ | $type$ | $default$ | $description$ | $notes$ |" description="new row for table-props" toReformat="false" toShortenFQNames="true">
+    <variable name="property" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="mandatory" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="default" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="notes" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="table-events" value="| Event | Params | Description | Notes |&#10;| --- | --- | --- | --- |&#10;| $event$ | $param$ | $description$ | $notes$ |" description="markdown table for event documentation of vue components" toReformat="false" toShortenFQNames="true">
+    <variable name="event" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="notes" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="table-events-row" value="| $event$ | $param$ | $description$ | $note$ |" description="new row for table-events" toReformat="false" toShortenFQNames="true">
+    <variable name="event" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="note" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
