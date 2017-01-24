@@ -14,6 +14,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="addarticletowishlist" type="PLAIN_TEXT" />
       <mapping pattern="then" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="when1" type="PLAIN_TEXT" />
       <mapping pattern="when" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
