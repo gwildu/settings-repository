@@ -174,8 +174,12 @@
           <option name="url" value="https://github.com/ricardo-ch/bas-frontend-project.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/google/material-design-lite.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\p\ricardo\" />
+    <option name="cloneParentDir" value="C:\p\ricardo\tryout\" />
   </component>
 </application>
