@@ -194,8 +194,12 @@
           <option name="url" value="https://github.com/gwildu/tryout-l10ns.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ricardo-ch/pdp-push-ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\p\tryout\" />
+    <option name="cloneParentDir" value="C:\p\ricardo\" />
   </component>
 </application>
