@@ -198,6 +198,10 @@
           <option name="url" value="https://github.com/ricardo-ch/pdp-push-ui.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ricardo-ch/sebas-eslint-config.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\p\ricardo\" />
