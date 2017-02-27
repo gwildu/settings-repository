@@ -175,11 +175,39 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/ricardo-ch/after-sales-invoicing.git" />
+          <option name="url" value="https://github.com/google/material-design-lite.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ricardo-ch/mdl-fork.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ricardo-ch/after-sales-invoicing-acl.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/gwildu/tryout_l10ns.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/gwildu/tryout-l10ns.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ricardo-ch/pdp-push-ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ricardo-ch/sebas-eslint-config.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/gwildu/knowledge-matrix.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\p\ricardo" />
+    <option name="cloneParentDir" value="C:\p\" />
   </component>
 </application>
