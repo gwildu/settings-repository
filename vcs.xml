@@ -214,6 +214,10 @@
           <option name="url" value="https://github.com/ricardo/bas-frontend-project" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ricardo-ch/account-web-experiment.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\p\ricardo\tryout" />
