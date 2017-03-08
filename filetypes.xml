@@ -8,6 +8,7 @@
       <mapping ext="themeconf" type="Less" />
       <mapping ext="theme" type="Less" />
       <mapping ext="attributes" type="Less" />
+      <mapping ext="exe" type="Native" />
       <mapping pattern=".npmrc.npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="addarticletowishlist" type="PLAIN_TEXT" />
