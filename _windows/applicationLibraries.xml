@@ -12,8 +12,13 @@
       <SOURCES />
     </library>
     <library name="ricardo" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ricstyle-6a38.kxcdn.com_1.2.1_lib_ricardo.js" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ricstyle-6a38.kxcdn.com_1.1.2_lib_ricardo.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ricstyle-6a38.kxcdn.com_1.2.1_lib_ricardo.js" />
       </CLASSES>
       <SOURCES />
     </library>
